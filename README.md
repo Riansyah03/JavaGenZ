@@ -1,0 +1,2 @@
+# JavaGenZ
+Latihan Java Springboot
