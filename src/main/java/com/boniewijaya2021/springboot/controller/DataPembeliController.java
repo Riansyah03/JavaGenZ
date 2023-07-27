@@ -1,7 +1,6 @@
 package com.boniewijaya2021.springboot.controller;
 
 import com.boniewijaya2021.springboot.entity.Pembeli;
-import com.boniewijaya2021.springboot.entity.TblSales;
 import com.boniewijaya2021.springboot.service.PembeliService;
 import com.boniewijaya2021.springboot.utility.MessageModel;
 import org.springframework.beans.factory.annotation.Autowired;

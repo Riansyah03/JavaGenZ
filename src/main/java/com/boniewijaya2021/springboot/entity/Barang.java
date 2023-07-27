@@ -29,8 +29,9 @@ public class Barang {
     @Column(name = "stok")
     private Integer stok;
 
-    @ManyToOne
-    @JoinColumn(name = "id_supplier")
-    private Supplier supplier;
+    @Column(name = "id_supplier")
+    private UUID idSupplier;
+
+
 
 }
